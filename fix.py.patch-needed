@@ -1,0 +1,11 @@
+# This file needs to be manually patched.
+# Apply the diff from PR #sol-d2e0510c3a78 below.
+
+# diff:
+# --- 
+# +++ 
+# @@ -1,5 +1,10 @@ 
+# +
+# +if (params === null || params === undefined) { 
+# +  throw new Error('Invalid parameters'); 
+# +} 
