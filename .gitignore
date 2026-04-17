@@ -2,3 +2,4 @@
 .omium/
 *.checkpoint
 __pycache__/
+.env
