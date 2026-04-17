@@ -1,0 +1,4 @@
+# Omium
+.omium/
+*.checkpoint
+__pycache__/
